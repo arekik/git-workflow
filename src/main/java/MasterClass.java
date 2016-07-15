@@ -3,4 +3,5 @@
  */
 public class MasterClass {
     private int test;
+    private int modification2;
 }
