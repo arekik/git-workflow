@@ -15,5 +15,6 @@ public class MasterClass {
 
     private  int masterAfterFeature3;
     private  int masterAfterFeature4;
+    private  int master1AfterFeature4;
 
 }
