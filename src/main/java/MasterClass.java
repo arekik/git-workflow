@@ -5,6 +5,8 @@ public class MasterClass {
     private int test;
     private int modification2;
 
+    private int modificationFeature;
+
     private int modification3;
 
     private int modification4;
