@@ -6,4 +6,6 @@ public class MasterClass {
     private int modification2;
 
     private int modification3;
+
+    private int modification4;
 }
